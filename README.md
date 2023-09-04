@@ -2,7 +2,7 @@
 My most recent interest has been linguistics. For fun, I decided to try to write a script to write English text in Egyptian hierohlyphs. This is that program.
 
 # Usage
-I can't really think of why anyone would need this, but if you really want, this repository uses the MIT license, so you can clone this repository and make your own server. Here is an example usage from the front-end:
+I can't really think of why anyone would need this, but if you really want, this repository uses the MIT license, so you can clone this repository and make your own server. Here is an example usage from the front-end. Of course, replace my url with your server url (or don't I don't really care) and enter your own input:
 
 ```javascript
 fetch("https://egyptian-transliteration-api.arjhantoteck.repl.co/" + encodeURIComponent("hey bbg"), {
