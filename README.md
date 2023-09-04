@@ -7,7 +7,8 @@ I can't really think of why anyone would need this, but if you really want, this
 ```javascript
 fetch("https://egyptian-transliteration-api.arjhantoteck.repl.co/" + encodeURIComponent("hey bbg"), {
   "method": "GET",
-}).then(data => data.text())
+})
+.then(data => data.text())
 .then(console.log);
 ```
 
