@@ -13,4 +13,4 @@ fetch("https://egyptian-transliteration-api.arjhantoteck.repl.co/" + encodeURICo
 ```
 
 # Sources
-I literally just used a random Wikipedia article on the Ancient Egyptian writing system. If you want to see, [here]([url](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian)https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian) it is.
+I literally just used a random Wikipedia article on the Ancient Egyptian writing system. If you want to see, [here](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian) it is.
