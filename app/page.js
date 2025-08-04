@@ -11,7 +11,7 @@ export default function Page() {
 		<section>
 			<h1>Egyptian Hieroglyph Transliteration</h1>
 
-			<p>My most recent interest has been linguistics. For fun, I decided to try to write a script to write English text in Egyptian hieroglyphs. See what your name would be, I don't know.</p>
+			<p>My most recent interest has been linguistics. For fun, I decided to try to write a script to write English text in Egyptian hieroglyphs. See what your name would be, I don't know. Note that some devices might not render the hieroglyphs properly.</p>
 
 			<p>Note that this project uses IPA-based transliteration, meaning the Egyptian hieroglyphs represent actual sounds rather than just English letters. That's also why it only works one-way.</p>
 
